@@ -1,2 +1,2 @@
-# MyCollection
+# My Collection
 My Collection Library
